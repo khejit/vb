@@ -1,11 +1,11 @@
-###################
-V-Brain
-###################
+# V-Brain
+
 
 V-Brain is currently a keyword for experimental project me and my team are about to create. This is repository for my creations that come along the way.
 
-
-## Skills learned
+##############
+Skills learned
+##############
 
 I am taking the opportunity to learn new stuff.
 
