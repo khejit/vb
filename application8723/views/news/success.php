@@ -1,0 +1,1 @@
+<p> Fuckin' awesome! You added new news! </p>
