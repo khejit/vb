@@ -12,7 +12,7 @@ Codeigniter is lightweight PHP framework.
 
 ### Sass
 
-I work a lot with Css, so I decided to learn and practise some Sass. I already love it!
+I work a lot with CSS, so I decided to learn and practise some Sass.
 
 ### jQuery ajax
 
